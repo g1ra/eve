@@ -12,11 +12,11 @@ invented and reduced to practice this Intellectual Property that
 relates to only me.
 
 This is not a results from tasks
-assigned to me by my Employer; 
+assigned to me by my Employer or others.
 
 This is a results from the use of
 only my facilities, premises, or property (whether
-tangible or intangible) owned, leased, or contracted for me; 
+tangible or intangible) owned by me.
 
 This is a not result of any participation in activities in competition with 
 my Employee.
