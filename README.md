@@ -10,21 +10,21 @@ invents and reduces to practice this Intellectual Property that
 relates to only me.
 
 This is not a results from tasks
-assigned to me by tmy Employer; 
+assigned to me by my Employer; 
 
-results from the use of
+This is a results from the use of
 only my facilities, premises, or property (whether
 tangible or intangible) owned, leased, or contracted for me; 
 
 This is a not result of any participation in activities in competition with 
-my Employee
+my Employee.
 
 Title - Author(s)
 ---------------------------
 
 Eve programming language, method and technology and medium.
 
-Author: Imre Gellert Kis
+Author: Imre Gellert Kis ( https://aeve.link/ ) ; ( https://www.facebook.com/gi.ra.2501 )
 
 Abstract
 ---------------------------
