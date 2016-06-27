@@ -5,8 +5,10 @@ Publication Date on github public: 2016-06-22 10:01:42 UTC+02:00
 Copyright
 ---------------
 
-During the past few year ,alone I made, conceives, discovers,
-invents and reduces to practice this Intellectual Property that
+All rights reserved.
+
+During the past few year ,alone I made, conceived, discovered,
+invented and reduced to practice this Intellectual Property that
 relates to only me.
 
 This is not a results from tasks
@@ -30,10 +32,10 @@ Abstract
 ---------------------------
 
 Eve is a new more efficient method of communication between 
-human-machine, machine-machine ,human-human. 
+human-machine (HtoM), machine-machine (MtoM) ,human-human (HtoH). 
 
 Eve is a medium of human and machine communication that represents language and emotion 
-through the inscription or recording of computer and physical symbols and linking them together.
+through the inscription or recording of computer and physical objects and linking them together.
 
 With eve ,we can eliminate the barrier between human and machine, virtual and physical world. 
 
@@ -72,7 +74,7 @@ The current technologies not effective
 Equipment and Methodology
 ---------------------------
 
-Developed on my own time ,my own equipment exclusively. 
+Linux, mainly Fedora.
 
 Results AND Discussion
 ---------------------------
