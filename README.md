@@ -44,22 +44,19 @@ With eve, we can make algorithms without too much prior knowledge.
 Introduction
 ---------------------------
 
-First problem (1stP)
-==============
+### First problem (1stP)
 
 Communication: 
 Digital age brought electronic devices to our everyday life, however communication with electronic machines is 
 a challenging task for a person who does not familiar with electronic machines. The current methods are based 
 on techniques brought from other industries which is not perfectly suitable solving this problem.
 
-Second problem (2thP)
-==============
+### Second problem (2thP)
 
 Writing algorithms is almost exclusively a privilege of a computer programmer. The everyday people have no such 
 method for making algorithms in electronic systems in a easy way.
 
-Third problem (3thP)
-==============
+### Third problem (3thP)
 
 There is a barrier between physical world and electronic systems when we try to incorporate physical objects 
 and ideas into electronic systems.
