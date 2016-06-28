@@ -73,6 +73,16 @@ Equipment and Methodology
 
 Linux, mainly Fedora.
 
+Developement is in planned ,early stage, only done 
+by myself (Gellert Kis) solely. Because of this state, the project is approaching slowly. 
+
+The slow Developement Methodology brought a few changes to the core concept. 
+
+These core concepts are crucial. Because of these, the project can fail later when enormous work 
+already invested. I avoided these pitfalls.
+
+
+
 Results AND Discussion
 ---------------------------
 
@@ -80,14 +90,6 @@ Had good result on some early test.
 
 Conclusions
 ---------------------------
-
-Eve confirmed its effectiveness. Developement is in planned ,early stage, only done 
-by myself (Gellert Kis) solely. Because of this state, the project is approaching slowly. 
-
-The slow Developement Methodology brought a few changes to the core concept. 
-
-These core concepts are crucial. Because of these, the project can fail later when enormous work 
-already invested. I avoided these pitfalls.
 
 
 References and Citations
